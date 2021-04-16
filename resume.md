@@ -42,7 +42,6 @@ Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
 - Diploma with Distinction, Overall GPA 3.98
 - Deputy Team Leader  
 <br><br>
- 
 ### EXPERIENCE
 
 **EFFECTIVE SYSTEMS LTD.** Moscow, Russia [www.softstarter.ru](http://www.softstarter.ru/)   Dec 2002 – Aug 2019
@@ -81,14 +80,12 @@ _Retail_
 
 - Reorganized supply chain and implemented inventory tracking and planning system allowed reducing turnover time by 25% and cutting costs by decreasing product losses due to expiration by 80%.  
 <br><br>
- 
 ### EARLIER EXPERIENCE
 
 **SENTYABR LLC**, **CEO** Moscow, Russia   1994 – 1996
 
 **TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia   1993 – 1994  
 <br><br>
- 
 ### SKILLS AND CERTIFICATIONS
 
 **Certificates:** U.S. - Russia Presidential Management Training Exchange Program, AWS Fundamentals Specialization, Google IT Automation Professional Certificate, Developing Applications with Google Cloud Platform Specialization, Data Engineering with Google Cloud Specialization, IBM Applied Data Science with Python, IBM Machine Learning with Python, 100+ Coursera and DataCamp Certificates including Python Programmer Career Track, Machine Learning Scientist with Python Career Track, Data Scientist with Python Career Track, Data Analyst with SQL Server Career Track, R Programming Skill Track, Deep Learning in Python Skill Track, etc.  
@@ -96,7 +93,6 @@ _Retail_
  
 **Technologies:** Advanced Python for Data Science, R, SQL, C#, Tableau, Microsoft Office, Microsoft Word, Microsoft Excel, Microsoft PowerPoint  
 <br><br>
- 
 ### ADDITIONAL INFORMATION
 
 **Languages:** Russian (native), English (proficient)
