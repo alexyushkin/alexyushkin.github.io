@@ -15,8 +15,6 @@ Hult International Business School   Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83  
 
-<br>
-  
 **Certificate of Professional Retraining in Artificial Intelligence**   Apr 2021
 
 GeekBrains   Skolkovo, Russia
