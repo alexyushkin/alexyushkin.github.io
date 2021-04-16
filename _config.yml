@@ -1,10 +1,10 @@
 # Site settings
 title: Alexey Yushkin
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consultant
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://alexyushkin.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of the site
+url: "https://alexyushkin.github.io" # the base hostname & protocol for the site
 
 author:
   fullname: Alexey Yushkin
