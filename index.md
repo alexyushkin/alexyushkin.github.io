@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Alexey
+title: 
+subtitle: 
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="AlexeyYushkin">
 
 <div id="describe-text">
 	<p>MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consulting</p>
