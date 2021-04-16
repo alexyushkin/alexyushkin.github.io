@@ -7,9 +7,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://alexyushkin.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: AlexeyYushkin
-  github: https://github.com/alexyushkin/alexyushkin.github.io
-  linkedin: https://www.linkedin.com/in/alexey-yushkin/
+  fullname: Alexey Yushkin
+  github: alexyushkin
+  linkedin: alexey-yushkin
   email: a-yu-yu@mail.ru
 
 
