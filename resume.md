@@ -13,36 +13,31 @@ subtitle: Alexey Yushkin
 
 Hult International Business School   Cambridge, Massachusetts
 
-- Dean&#39;s List, Overall GPA 3.83  
-\
+- Dean&#39;s List, Overall GPA 3.83\
 
 **Certificate of Professional Retraining in Artificial Intelligence**   Apr 2021
 
-GeekBrains   Skolkovo, Russia  
-\
+GeekBrains   Skolkovo, Russia\
  
 **Master of Business Administration (MBA)**   Aug 2020
 
 Hult International Business School   Cambridge, Massachusetts
 
-- Dean&#39;s List, Overall GPA 3.57  
-\
+- Dean&#39;s List, Overall GPA 3.57\
  
 **Diploma of Professional Retraining in Management**   Jul 2010
 
 Academy of National Economy   Moscow, Russia
 
-- Diploma with Distinction, Overall GPA 4.0  
-\
- 
+- Diploma with Distinction, Overall GPA 4.0\
+
 **Master of Electronics and Communication Engineering (ECE)**   Mar 1993
 
 Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
 
 - Diploma with Distinction, Overall GPA 3.98
-- Deputy Team Leader  
-\
-\
+- Deputy Team Leader\
+  \
  
 ### EXPERIENCE
 
