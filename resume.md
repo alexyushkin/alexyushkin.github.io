@@ -7,7 +7,7 @@ subtitle: Alexey Yushkin
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-**Education**
+### EDUCATION
 
 **Master of Business Analytics (MsBA)** Expected May 2021
 
@@ -15,9 +15,11 @@ Hult International Business School | Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83
 
+
 **Certificate of Professional Retraining in Artificial Intelligence** Apr 2021
 
 GeekBrains | Skolkovo, Russia
+
 
 **Master of Business Administration (MBA)** Aug 2020
 
@@ -25,11 +27,13 @@ Hult International Business School | Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.57
 
+
 **Diploma of Professional Retraining in Management** Jul 2010
 
 Academy of National Economy | Moscow, Russia
 
 - Diploma with Distinction, Overall GPA 4.0
+
 
 **Master of Electronics and Communication Engineering (ECE)** Mar 1993
 
@@ -38,9 +42,10 @@ Moscow Institute of Engineers of Civil Aviation | Moscow, Russia
 - Diploma with Distinction, Overall GPA 3.98
 - Deputy Team Leader
 
-**Experience**
 
-**Effective systems ltd.** | Moscow, Russia | [www.softstarter.ru](http://www.softstarter.ru/) Dec 2002 – Aug 2019
+### EXPERIENCE
+
+**Effective systems ltd.** Moscow, Russia [www.softstarter.ru](http://www.softstarter.ru/) Dec 2002 – Aug 2019
 
 _Developer and manufacturer of industrial energy savings equipment for electric drive systems and solutions in the field of industrial automation._
 
@@ -57,7 +62,8 @@ _Developer and manufacturer of industrial energy savings equipment for electric 
 - Implemented Machine Learning algorithms to analyze energy consumption data and predict opportunities for energy savings.
 - Created software for remote control of equipment via Modbus protocol using C#.
 
-**GALION SERVICE &amp; TRADING CO.** | Moscow, Russia Jun 1996 – Dec 2002
+
+**GALION SERVICE &amp; TRADING CO.** Moscow, Russia Jun 1996 – Dec 2002
 
 _Legal, logistic, interpretation, translation service provider for American non-profit organizations_
 
@@ -66,7 +72,8 @@ _Legal, logistic, interpretation, translation service provider for American non-
 - Developed a database enabled clients to obtain real-time information on timing of preparation of various documents and preliminary activities using spreadsheets (Microsoft Excel).
 - Liaised with key foreign customers – over a dozen of American non-profit organizations.
 
-**TPK LION LLC** | Moscow, Russia Jan 1996 – Jun 1996
+
+**TPK LION LLC** Moscow, Russia Jan 1996 – Jun 1996
 
 _Retail_
 
@@ -74,18 +81,22 @@ _Retail_
 
 - Reorganized supply chain and implemented inventory tracking and planning system allowed reducing turnover time by 25% and cutting costs by decreasing product losses due to expiration by 80%.
 
-**Earlier Experience**
 
-**SENTYABR LLC**** , ****CEO** | Moscow, Russia 1994 – 1996
+### EARLIER EXPERIENCE
 
-**TRANSAERO AIRLINES**** , ****Ground Control Dispatcher** | Sheremetyevo, Russia 1993 – 1994
+**SENTYABR LLC**, **CEO** Moscow, Russia 1994 – 1996
 
-**Skills and Certifications**
+**TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia 1993 – 1994
+
+
+### SKILLS AND CERTIFICATIONS
 
 **Certificates:** U.S. - Russia Presidential Management Training Exchange Program, AWS Fundamentals Specialization, Google IT Automation Professional Certificate, Developing Applications with Google Cloud Platform Specialization, Data Engineering with Google Cloud Specialization, IBM Applied Data Science with Python, IBM Machine Learning with Python, 100+ Coursera and DataCamp Certificates including Python Programmer Career Track, Machine Learning Scientist with Python Career Track, Data Scientist with Python Career Track, Data Analyst with SQL Server Career Track, R Programming Skill Track, Deep Learning in Python Skill Track, etc.
 
+
 **Technologies:** Advanced Python for Data Science, R, SQL, C#, Tableau, Microsoft Office, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 
-**Additional Information**
+
+### ADDITIONAL INFORMATION
 
 **Languages:** Russian (native), English (proficient)
