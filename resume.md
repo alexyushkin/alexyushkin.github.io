@@ -9,33 +9,33 @@ subtitle: Alexey Yushkin
 
 ### EDUCATION
 
-**Master of Business Analytics (MsBA)**   Expected May 2021
+**Master of Business Analytics (MsBA)** <span style="float: right; ">Expected May 2021</span>
 
 Hult International Business School   Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83  
 <br>
 
-**Certificate of Professional Retraining in Artificial Intelligence**   Apr 2021
+**Certificate of Professional Retraining in Artificial Intelligence** <span style="float: right; ">Apr 2021</span>
 
 GeekBrains   Skolkovo, Russia  
 <br>
  
-**Master of Business Administration (MBA)**   Aug 2020
+**Master of Business Administration (MBA)** <span style="float: right; ">Aug 2020</span>
 
 Hult International Business School   Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.57  
 <br>
  
-**Diploma of Professional Retraining in Management**   Jul 2010
+**Diploma of Professional Retraining in Management** <span style="float: right; ">Jul 2010</span>
 
 Academy of National Economy   Moscow, Russia
 
 - Diploma with Distinction, Overall GPA 4.0  
 <br>
 
-**Master of Electronics and Communication Engineering (ECE)**   Mar 1993
+**Master of Electronics and Communication Engineering (ECE)** <span style="float: right; ">Mar 1993</span>
 
 Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
 
@@ -63,7 +63,7 @@ _Developer and manufacturer of industrial energy savings equipment for electric 
 - Created software for remote control of equipment via Modbus protocol using C#.  
 <br>
  
-**GALION SERVICE &amp; TRADING CO.** Moscow, Russia   Jun 1996 – Dec 2002
+**GALION SERVICE &amp; TRADING CO.** Moscow, Russia <span style="float: right; ">Jun 1996 – Dec 2002</span>
 
 _Legal, logistic, interpretation, translation service provider for American non-profit organizations_
 
@@ -73,7 +73,7 @@ _Legal, logistic, interpretation, translation service provider for American non-
 - Liaised with key foreign customers – over a dozen of American non-profit organizations.  
 <br>
  
-**TPK LION LLC** Moscow, Russia   Jan 1996 – Jun 1996
+**TPK LION LLC** Moscow, Russia <span style="float: right; ">Jan 1996 – Jun 1996</span>
 
 _Retail_
 
@@ -84,9 +84,9 @@ _Retail_
 
 ### EARLIER EXPERIENCE
 
-**SENTYABR LLC**, **CEO** Moscow, Russia   1994 – 1996
+**SENTYABR LLC**, **CEO** Moscow, Russia <span style="float: right; ">1994 – 1996</span>
 
-**TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia   1993 – 1994  
+**TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia <span style="float: right; ">1993 – 1994</span>  
 <br>
 
 ### SKILLS AND CERTIFICATIONS
