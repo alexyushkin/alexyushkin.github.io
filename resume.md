@@ -14,8 +14,8 @@ subtitle: Alexey Yushkin
 Hult International Business School   Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83
-\
-&nbsp;
+<br>
+  
 **Certificate of Professional Retraining in Artificial Intelligence**   Apr 2021
 
 GeekBrains   Skolkovo, Russia
