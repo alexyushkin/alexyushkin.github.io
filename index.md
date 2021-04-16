@@ -10,5 +10,7 @@ sitemap:
 
 <div id="describe-text">
 	<p>MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consultant</p>
-	# <p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	
+[//]: # <p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	
 </div>
