@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Projects on GitHub
+subtitle: on GitHub
 ---
 
 <div>
