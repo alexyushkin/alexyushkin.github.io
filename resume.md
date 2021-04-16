@@ -18,7 +18,7 @@ Hult International Business School   Cambridge, Massachusetts
 
 **Certificate of Professional Retraining in Artificial Intelligence**   Apr 2021
 
-GeekBrains   Skolkovo, Russia
+GeekBrains   Skolkovo, Russia  
 <br>
  
 **Master of Business Administration (MBA)**   Aug 2020
