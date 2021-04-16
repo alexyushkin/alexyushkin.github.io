@@ -73,7 +73,7 @@ _Legal, logistic, interpretation, translation service provider for American non-
 - Liaised with key foreign customers – over a dozen of American non-profit organizations.
 <br>
 
-**TPK LION LLC** Moscow, Russia Jan 1996 – Jun 1996
+**TPK LION LLC** Moscow, Russia   Jan 1996 – Jun 1996
 
 _Retail_
 
@@ -84,9 +84,9 @@ _Retail_
 
 ### EARLIER EXPERIENCE
 
-**SENTYABR LLC**, **CEO** Moscow, Russia 1994 – 1996
+**SENTYABR LLC**, **CEO** Moscow, Russia   1994 – 1996
 
-**TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia 1993 – 1994
+**TRANSAERO AIRLINES**, **Ground Control Dispatcher** Sheremetyevo, Russia   1993 – 1994
 
 
 ### SKILLS AND CERTIFICATIONS
