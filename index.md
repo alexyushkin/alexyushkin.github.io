@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consultant</p>
+	<p>MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consulting</p>
 	
 </div>
