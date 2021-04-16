@@ -1,7 +1,7 @@
 # Site settings
 title: Alexey Yushkin
 description: >
-  MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consultant
+  MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consulting
 
 baseurl: "/" # the subpath of the site
 url: "https://alexyushkin.github.io" # the base hostname & protocol for the site
