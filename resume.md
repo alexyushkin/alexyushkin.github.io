@@ -45,7 +45,7 @@ Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
 
 ### EXPERIENCE
 
-**EFFECTIVE SYSTEMS LTD.** Moscow, Russia <span style="float: right; "</span>  Dec 2002 – Aug 2019
+**EFFECTIVE SYSTEMS LTD.** Moscow, Russia <span style="float: right; ">Dec 2002 – Aug 2019</span>
 
 _Developer and manufacturer of industrial energy savings equipment for electric drive systems and solutions in the field of industrial automation._
 
