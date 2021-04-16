@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
+	<p>MBA | ECE | MsBA Candidate | Business Analytics | Artificial Intelligence | Data Science | Business Consultant</p>
 	# <p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
