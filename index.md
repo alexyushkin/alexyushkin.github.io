@@ -7,11 +7,13 @@ sitemap:
 ---
 
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
+<br style="clear:both" />
 
 <hr>
 
-<div style="text-align: right; ">
+<div style="float: right; ">
     <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" />
+    <br style="clear:both" />
 </div>
 
 <p>
