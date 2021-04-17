@@ -7,6 +7,8 @@ sitemap:
 ---
 
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
+<br>
+<p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span></p>
 
 <div>
     <p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span></p>
