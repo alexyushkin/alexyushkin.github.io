@@ -12,7 +12,7 @@ sitemap:
 
 <div>
     <div style="float: right">
-        <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" id="about-img-2">
+        <img src="{{ '/assets/img/Edward_Kwartler.jpeg' | prepend: site.baseurl }}" id="about-img-2">
     </div>
     <div style="clear:both"></div>
         <p>
@@ -23,8 +23,8 @@ sitemap:
     <p>
         <span style="float: right; line-height: 1.1; ">
             Edward Kwartler,<br>
-            author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>
-            Professor of "Text Analytics and Natural Language Processing" course
+            Professor of "Text Analytics and Natural Language Processing" course,<br>
+            author of "Text Mining in Practice with R" and two NLP courses on DataCamp
         </span>
         <br style="clear:both" />
     </p>
