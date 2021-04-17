@@ -11,15 +11,16 @@ sitemap:
 <p style="text-align: right; ">
     <img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img">
 </p>
-<p><i>"Quote"</i></p>
-<p><span style="float: right; ">Name</span></p>
 
-<p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img"></span></p>
-<br><br><br><br>
-<span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span>
-<br>
-<div>
-    <p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span></p>
-	<p><i>"Quote"</i></p>
-	<p><span style="float: right; ">Name</span></p>
-</div>
+<p>
+    <i>
+        "Quote"
+    </i>
+</p>
+
+<p>
+    <span style="float: right; ">
+        Name
+    </span>
+</p>
+
