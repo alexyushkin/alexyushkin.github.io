@@ -77,7 +77,7 @@ _Legal, logistic, interpretation, translation service provider for American non-
 
 _Retail_
 
-**Deputy Director**. Controlled financial planning, managed supply chain and inventory.
+**Deputy Director**. Performed financial planning, managed supply chain and inventory.
 
 - Reorganized supply chain and implemented inventory tracking and planning system allowed reducing turnover time by 25% and cutting costs by decreasing product losses due to expiration by 80%.  
 <br>
