@@ -8,6 +8,8 @@ sitemap:
 
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
 
+<hr>
+
 <p style="text-align: right; ">
     <img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img">
 </p>
