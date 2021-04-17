@@ -12,7 +12,7 @@ sitemap:
 <hr>
 
 <div style="text-align: right">
-    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" max-width="196" vertical-align="middle" />
+    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" id="about-img-2">
 </div>
 
 <p>
