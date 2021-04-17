@@ -92,3 +92,25 @@ sitemap:
         <br style="clear:both" />
     </p>
 </div>
+
+<hr>
+
+<div>
+    <div style="float: left">
+        <img src="{{ '/assets/img/Michael_Rolleigh.jpeg' | prepend: site.baseurl }}" id="about-img-2">
+    </div>
+    <div style="clear:both"></div>
+        <p>
+        <i>
+            "Excellent work. This would be an A+ if we had those. I would be happy presenting most of this to clients. Great explanations of the technical work, very polished overall. 
+The statistical models and checks were very good."
+        </i>
+    </p>
+    <p>
+        <span style="float: right; line-height: 1.1; ">
+            Dr. Michael Rolleigh,<br>
+            Professor, "Data and Decisions" course
+        </span>
+        <br style="clear:both" />
+    </p>
+</div>
