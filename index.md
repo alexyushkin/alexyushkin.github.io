@@ -12,7 +12,9 @@ sitemap:
 	<p>Business Analytics | Artificial Intelligence | Data Science | Business Consulting</p>
 </div>
 
+<div>
 <span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img"></span>
+</div>
  
 <div id="describe-text">
 	<p>*"Quote"*</p>
