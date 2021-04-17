@@ -50,3 +50,24 @@ sitemap:
         <br style="clear:both" />
     </p>
 </div>
+
+<hr>
+
+<div>
+    <div style="float: right">
+        <img src="{{ '/assets/img/Thomas_Sullivan.jpeg' | prepend: site.baseurl }}" id="about-img-2">
+    </div>
+    <div style="clear:both"></div>
+        <p>
+        <i>
+            "...the best paper of the cohort. I can't say anything more. It is a pleasure to know you."
+        </i>
+    </p>
+    <p>
+        <span style="float: right; line-height: 1.1; ">
+            Thomas Sullivan,<br>
+            Professor of "Leadership Development" course
+        </span>
+        <br style="clear:both" />
+    </p>
+</div>
