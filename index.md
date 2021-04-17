@@ -10,7 +10,7 @@ sitemap:
 
 <div>
     <div style="float: left">
-        <img src="{{ '/assets/img/Daniel_Deneffe.jpeg.jpeg' | prepend: site.baseurl }}" id="about-img-2">
+        <img src="{{ '/assets/img/Daniel_Deneffe.jpeg' | prepend: site.baseurl }}" id="about-img-2">
     </div>
     <div style="clear:both"></div>
         <p>
