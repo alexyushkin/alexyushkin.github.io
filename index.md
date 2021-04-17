@@ -16,13 +16,13 @@ sitemap:
 
 <p>
     <i>
-        "Quote"
+        "You have a bright professional career ahead of you either in data driven management or as a technical practitioner."
     </i>
 </p>
 
 <p>
     <span style="float: right; ">
-        Name
+        Edward Kwartler, <br>author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>Professor
     </span>
 </p>
 <br><br><br>
