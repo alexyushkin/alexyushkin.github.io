@@ -22,7 +22,7 @@ sitemap:
 </p>
 
 <p>
-    <span style="float: right; ">
+    <span style="float: right; line-height: 70%; ">
         Edward Kwartler, <br>author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>Professor of "Text Analytics and Natural Language Processing" course
     </span>
 </p>
