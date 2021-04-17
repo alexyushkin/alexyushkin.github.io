@@ -64,16 +64,16 @@
   .menu {
     color: #828282;
     font-size: 150%;
-    margin: 0px;
+    margin: 1px;
     margin-top: 6px;
-    padding: 0px;
+    padding: 1px;
     list-style-type: none; }
 
   .menu__entry {
     display: inline-block;
     margin-right: 35px; }
     .menu__entry:last-child {
-      margin-right: 0px; }
+      margin-right: 1px; }
 
   .menu__entry a {
     font-weight: 400; }
@@ -105,7 +105,7 @@
 /* =Post teasers *//*************************************************************/
   .list-posts {
     list-style-type: none;
-    padding: 0px; }
+    padding: 1px; }
 
   .post-teaser {
     margin-bottom: 15px;
