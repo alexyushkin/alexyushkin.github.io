@@ -102,8 +102,7 @@ sitemap:
     <div style="clear:both"></div>
         <p>
         <i>
-            "Excellent work. This would be an A+ if we had those. I would be happy presenting most of this to clients. Great explanations of the technical work, very polished overall. 
-The statistical models and checks were very good."
+            "Excellent work. This would be an A+ if we had those. I would be happy presenting most of this to clients. Great explanations of the technical work, very polished overall. The statistical models and checks were very good."
         </i>
     </p>
     <p>
