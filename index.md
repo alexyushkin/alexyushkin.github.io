@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/picture.jpeg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/picture_1.jpeg' | prepend: site.baseurl }}" id="about-img"><img src="{{ '/assets/img/picture_2.jpeg' | prepend: site.baseurl }}" id="about-img">
 
 <hr>
 
