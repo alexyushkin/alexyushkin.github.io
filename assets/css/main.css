@@ -195,7 +195,7 @@
 
   .img-item {
     display: inline-block;
-    align-items: center;
+    text-align: center;
   }
 
 /* =Small screen *//*************************************************************/
