@@ -12,10 +12,10 @@ sitemap:
 <hr>
 
 <div style="text-align: right">
-    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}"  width="100" />
+    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" />
 </div>
 
-<div style="text-align: right"><img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" width="100" /></div>
+<div style="text-align: right"><img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" /></div>
 
 <p>
     <i>
