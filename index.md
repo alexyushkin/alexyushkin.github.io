@@ -21,7 +21,7 @@ sitemap:
         </i>
     </p>
     <p>
-        <span style="float: right; line-height: 1; ">
+        <span style="float: right; line-height: 1.1; ">
             Edward Kwartler,<br>
             author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>
             Professor of "Text Analytics and Natural Language Processing" course
@@ -31,7 +31,7 @@ sitemap:
 </div>
 
 <div>
-    <div style="float: right">
+    <div style="float: left">
         <img src="{{ '/assets/img/Omar_Romero-Hernandez.jpeg' | prepend: site.baseurl }}" id="about-img-2">
     </div>
     <div style="clear:both"></div>
@@ -41,7 +41,7 @@ sitemap:
         </i>
     </p>
     <p>
-        <span style="float: right; line-height: 1; ">
+        <span style="float: right; line-height: 1.1; ">
             Dr. Omar Romero-Hernandez,<br>
             Professor of "Advanced Data Analytics" course
         </span>
