@@ -170,7 +170,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 600px;
+    max-width: 100%;
     margin: auto;
     margin-bottom: 3%;
   }
