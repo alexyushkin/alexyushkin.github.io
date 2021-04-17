@@ -13,6 +13,12 @@ sitemap:
 </p>
 
 <p>
+    <span style="float: right; ">
+        <img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img">
+    </span>
+</p>
+
+<p>
     <i>
         "Quote"
     </i>
