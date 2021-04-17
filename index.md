@@ -8,7 +8,7 @@ sitemap:
 
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
 
-<p style="text-align: right; ">
+<p style="float: right; ">
     <img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img">
 </p>
 <p><i>"Quote"</i></p>
