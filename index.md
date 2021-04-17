@@ -8,6 +8,25 @@ sitemap:
 
 <img src="{{ '/assets/img/alexey.jpeg' | prepend: site.baseurl }}" id="about-img">
 
+<div>
+    <div style="float: left">
+        <img src="{{ '/assets/img/Daniel_Deneffe.jpeg.jpeg' | prepend: site.baseurl }}" id="about-img-2">
+    </div>
+    <div style="clear:both"></div>
+        <p>
+        <i>
+            "Was a pleasure having you in both classes."
+        </i>
+    </p>
+    <p>
+        <span style="float: right; line-height: 1.1; ">
+            Dr. Daniel Deneffe,<br>
+            Professor, "Strategy" and "Managerial Economics" courses
+        </span>
+        <br style="clear:both" />
+    </p>
+</div>
+
 <hr>
 
 <div>
@@ -67,27 +86,6 @@ sitemap:
         <span style="float: right; line-height: 1.1; ">
             Thomas Sullivan,<br>
             Professor, "Leadership Development" course
-        </span>
-        <br style="clear:both" />
-    </p>
-</div>
-
-<hr>
-
-<div>
-    <div style="float: left">
-        <img src="{{ '/assets/img/Daniel_Deneffe.jpeg.jpeg' | prepend: site.baseurl }}" id="about-img-2">
-    </div>
-    <div style="clear:both"></div>
-        <p>
-        <i>
-            "Was a pleasure having you in both classes."
-        </i>
-    </p>
-    <p>
-        <span style="float: right; line-height: 1.1; ">
-            Dr. Daniel Deneffe,<br>
-            Professor, "Strategy" and "Managerial Economics" courses
         </span>
         <br style="clear:both" />
     </p>
