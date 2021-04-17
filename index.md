@@ -50,5 +50,3 @@ sitemap:
         <br style="clear:both" />
     </p>
 </div>
-
-<br>
