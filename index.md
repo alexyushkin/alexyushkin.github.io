@@ -11,8 +11,8 @@ sitemap:
 
 <hr>
 
-<div style="text-align: right; ">
-    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" id="about-img-2">
+<div style="text-align: right">
+    <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}"  width="100" />
 </div>
 
 <p>
