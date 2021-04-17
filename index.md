@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Business Analytics | Artificial Intelligence | Data Science | Business Consulting
-subtitle: Business Analytics | Artificial Intelligence | Data Science | Business Consulting
+subtitle:
 sitemap:
   priority: 0.9
 ---
