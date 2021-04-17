@@ -15,8 +15,6 @@ sitemap:
     <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" />
 </div>
 
-<div style="text-align: right"><img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" /></div>
-
 <p>
     <i>
         "You have a bright professional career ahead of you either in data driven management or as a technical practitioner."
