@@ -188,14 +188,14 @@
       width: 100%; }
 
   .thumb img{
-  
+  align-items: center;
   }
 
   .thumb {font-size: 0;}
 
   .img-item {
     display: inline-block;
-    float: none;
+    align-items: center;
   }
 
 /* =Small screen *//*************************************************************/
