@@ -7,14 +7,12 @@ sitemap:
 ---
 
 <div class="thumb">
-    <div class="img-item" style="float: center">
+    <div class="img-item" style="text-align: center">
         <img src="{{ '/assets/img/picture_1.jpeg' | prepend: site.baseurl }}" id="about-img">
     </div>
-    <div style="clear:both"></div>
-    <div class="img-item" style="float: center">
+    <div class="img-item" style="text-align: center">
         <img src="{{ '/assets/img/picture_2.jpeg' | prepend: site.baseurl }}" id="about-img">
     </div>
-    <div style="clear:both"></div>
 </div>
 
 <hr>
