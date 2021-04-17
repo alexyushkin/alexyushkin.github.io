@@ -11,9 +11,10 @@ sitemap:
 <div id="describe-text">
 	<p>Business Analytics | Artificial Intelligence | Data Science | Business Consulting</p>
 </div>
+
+<span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img"></span>
  
 <div id="describe-text">
-    <span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img"></span>
-	<p>"Quote"</p>
+	<p>*"Quote"*</p>
 	<span style="float: right; ">Name</span>
 </div>
