@@ -205,13 +205,13 @@
       margin-bottom: 30px; }
 
     .page-title__text {
-      font-size: 150%; }
+      font-size: 70%; }
 
     .page-title__subtitle {
-      font-size: 65%; }
+      font-size: 60%; }
 
     .post-teaser__title {
-      font-size: 150%;
+      font-size: 100%;
       display: block;
       text-align: center;
       width: 100%; }
