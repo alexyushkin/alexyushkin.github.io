@@ -22,7 +22,7 @@ sitemap:
 
 <p>
     <span style="float: right; ">
-        Edward Kwartler, <br>author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>Professor
+        Edward Kwartler, <br>author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>Professor of "Text Analytics and Natural Language Processing" course
     </span>
 </p>
 <br><br><br>
