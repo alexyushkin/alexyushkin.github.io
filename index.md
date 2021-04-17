@@ -10,9 +10,9 @@ sitemap:
 
 <hr>
 
-<p style="text-align: right; ">
+<div style="text-align: right; ">
     <img src="{{ '/assets/img/Ted Kwartler.png' | prepend: site.baseurl }}" />
-</p>
+</div>
 
 <p>
     <i>
