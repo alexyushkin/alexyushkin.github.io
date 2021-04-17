@@ -23,7 +23,7 @@ sitemap:
     <p>
         <span style="float: right; line-height: 1.1; ">
             Edward Kwartler,<br>
-            Professor of "Text Analytics and Natural Language Processing" course,<br>
+            Professor, "Text Analytics and Natural Language Processing" course,<br>
             author of "Text Mining in Practice with R" and two NLP courses on DataCamp
         </span>
         <br style="clear:both" />
@@ -45,7 +45,7 @@ sitemap:
     <p>
         <span style="float: right; line-height: 1.1; ">
             Dr. Omar Romero-Hernandez,<br>
-            Professor of "Advanced Data Analytics" course
+            Professor, "Advanced Data Analytics" course
         </span>
         <br style="clear:both" />
     </p>
@@ -66,7 +66,28 @@ sitemap:
     <p>
         <span style="float: right; line-height: 1.1; ">
             Thomas Sullivan,<br>
-            Professor of "Leadership Development" course
+            Professor, "Leadership Development" course
+        </span>
+        <br style="clear:both" />
+    </p>
+</div>
+
+<hr>
+
+<div>
+    <div style="float: left">
+        <img src="{{ '/assets/img/Daniel_Deneffe.jpeg.jpeg' | prepend: site.baseurl }}" id="about-img-2">
+    </div>
+    <div style="clear:both"></div>
+        <p>
+        <i>
+            "Was a pleasure having you in both classes."
+        </i>
+    </p>
+    <p>
+        <span style="float: right; line-height: 1.1; ">
+            Dr. Daniel Deneffe,<br>
+            Professor, "Strategy" and "Managerial Economics" courses
         </span>
         <br style="clear:both" />
     </p>
