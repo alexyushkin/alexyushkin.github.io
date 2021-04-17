@@ -26,6 +26,7 @@ sitemap:
             author of "Text Mining in Practice with R" and two NLP courses on DataCamp,<br>
             Professor of "Text Analytics and Natural Language Processing" course
         </span>
+        <br style="clear:both" />
     </p>
 </div>
 
@@ -44,6 +45,7 @@ sitemap:
             Dr. Omar Romero-Hernandez,<br>
             Professor of "Advanced Data Analytics" course
         </span>
+        <br style="clear:both" />
     </p>
 </div>
 
