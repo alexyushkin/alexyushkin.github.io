@@ -12,7 +12,7 @@ sitemap:
 <div>
         <p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span></p>
     <div id="describe-text">
-	    <p><i>"Quote"</i>
-	    <span style="float: right; ">Name</span></p>
+	    <p><i>"Quote"</i></p>
+	    <p><span style="float: right; ">Name</span></p>
 	</div>
 </div>
