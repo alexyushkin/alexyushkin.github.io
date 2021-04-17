@@ -8,10 +8,10 @@ sitemap:
 
 <div class="thumb">
     <div class="img-item">
-        <img src="{{ '/assets/img/picture_1.jpeg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/picture_1.jpeg' | prepend: site.baseurl }}" id="about-img">
     </div>
     <div class="img-item">
-        <img src="{{ '/assets/img/picture_2.jpeg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/picture_2.jpeg' | prepend: site.baseurl }}" id="about-img">
     </div>
 </div>
 
