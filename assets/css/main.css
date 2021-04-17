@@ -194,13 +194,7 @@
   .thumb {font-size: 0;}
 
   .img-item {
-    margin-bottom: 3%;
-    font-size: 14px;
     display: inline-block;
-    vertical-align: top;
-    max-width: 100%;
-    padding-left: 0px;
-    padding-right: 0px;
   }
 
 /* =Small screen *//*************************************************************/
