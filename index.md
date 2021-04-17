@@ -15,7 +15,7 @@ sitemap:
 <p><span style="float: right; ">Name</span></p>
 
 <p><span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}" id="about-img"></span></p>
-<br>
+<br><br><br><br>
 <span style="float: right; "><img src="{{ '/assets/img/alexey_face.jpeg' | prepend: site.baseurl }}"     id="about-img"></span>
 <br>
 <div>
