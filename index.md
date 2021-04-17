@@ -30,6 +30,8 @@ sitemap:
     </p>
 </div>
 
+<hr>
+
 <div>
     <div style="float: left">
         <img src="{{ '/assets/img/Omar_Romero-Hernandez.jpeg' | prepend: site.baseurl }}" id="about-img-2">
