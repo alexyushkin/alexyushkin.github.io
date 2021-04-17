@@ -17,6 +17,6 @@ sitemap:
 </div>
  
 <div id="describe-text">
-	<p>*"Quote"*</p>
+	<p><i>"Quote"</i></p>
 	<span style="float: right; ">Name</span>
 </div>
