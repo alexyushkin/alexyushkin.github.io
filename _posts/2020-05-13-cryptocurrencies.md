@@ -7,9 +7,9 @@ categories: ["API"]
 ---
 Code in `Python`. 
 <br>
-Value of Cryptocurrency portfolio [Script on GitHub][cc-1]
+Value of Cryptocurrency portfolio [Script on GitHub][cc-1].
 <br>
-Cryptocurrency price alerts [Script on GitHub][cc-2]
+Cryptocurrency price alerts [Script on GitHub][cc-2].
 
 [cc-1]:   https://github.com/alexyushkin/Cryptocurrencies/blob/master/cryptocurrency_portfolio.py
 [cc-2]:   https://github.com/alexyushkin/Cryptocurrencies/blob/master/cryptocurrencies_alert.py
