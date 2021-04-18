@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What affects the price of Airbnb Listings"
+title: "What affects the price of Airbnb listings"
 subtitle: "in New York City"
 date:   2020-12-19 21:21:21 -0500
 categories: ["Machine Learning"]
