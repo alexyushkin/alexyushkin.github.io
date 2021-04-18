@@ -199,7 +199,7 @@
   }
 
 /* =Small screen *//*************************************************************/
-  @media (min-width: 361px) and (max-width: 767px) {
+  @media (max-width: 500px) {
     p, ul, ol, dl {
       font-size: 100%;
       line-height: 1.6; }
