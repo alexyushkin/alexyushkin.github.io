@@ -3,9 +3,6 @@ layout: page
 title: Resumé
 subtitle: 
 ---
-<span>{{ echo \`date "+%B %-d, %Y"\` }}</span>
-<span>{{% echo \`date "+%B %-d, %Y"\` %}}</span>
-<span>{% echo \`date "+%B %-d, %Y"\` %}</span>
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
