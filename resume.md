@@ -3,6 +3,10 @@ layout: page
 title: Resumé
 subtitle: 
 ---
+{:.ruby}
+        time = Time.new
+        puts time.month + "/" + time.day + "/" + time.year
+
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
