@@ -5,9 +5,9 @@ subtitle: "Regressions"
 date:   2019-12-01 21:21:21 -0500
 categories: ["Machine Learning"]
 ---
-Decision Tree Regression
-Random Forest Regression
-Gradient Boosting Regression
+Decision Tree Regression<br>
+Random Forest Regression<br>
+Gradient Boosting Regression<br>
 <br>
 Code in `Python`. 
 <br>
