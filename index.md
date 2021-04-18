@@ -23,7 +23,8 @@ sitemap:
     <p>
         <span style="float: right; line-height: 1.1; ">
             Dr. Daniel Deneffe,<br>
-            Professor, "Strategy" and "Managerial Economics" courses
+            Professor, "Managerial Economics" and "Strategy" courses,<br>
+            author of "Fad-free Strategy"
         </span>
         <br style="clear:both" />
     </p>
