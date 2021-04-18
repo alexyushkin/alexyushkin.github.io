@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Resumé
-subtitle: 
+subtitle: {:.ruby}
+                time = Time.new
+                puts time.month + "/" + time.day + "/" + time.year
 ---
 {:.ruby}
         time = Time.new
