@@ -3,7 +3,7 @@ layout: page
 title: Resumé
 subtitle: 
 ---
-date: "`r Sys.Date()`"
+
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
