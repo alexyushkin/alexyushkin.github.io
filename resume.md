@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé
-subtitle:
+subtitle: {% date '+%Y%m%d%H%M%S' %}
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
