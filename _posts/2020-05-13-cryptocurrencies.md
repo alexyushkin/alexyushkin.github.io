@@ -3,7 +3,7 @@ layout: page
 title:  "Scripts for monitoring cryptocurrencies"
 subtitle: "Value of portfolio and alerts"
 date:   2020-05-12 21:21:21 -0500
-categories: ["API"]
+categories: ["Monitoring using API"]
 ---
 Code in `Python`. 
 <br>
