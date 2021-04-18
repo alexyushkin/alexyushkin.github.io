@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé
-subtitle: {% date '+%Y%m%d%H%M%S' %}
+subtitle: <span class="post-teaser__date">{{ date | date: "%B %-d, %Y" }}</span>
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
