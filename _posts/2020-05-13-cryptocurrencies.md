@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Scripts for monitoring cryptocurrencies"
+title:  "Scripts for monitoring cryptocurrencies using API"
 subtitle: "value of portfolio and alerts"
 date:   2020-05-12 21:21:21 -0500
-categories: ["Monitoring using API"]
+categories: ["Other"]
 ---
 Code in `Python`. 
 
