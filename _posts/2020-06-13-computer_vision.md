@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Set of notebooks for Computer Vision"
+title: "Set of Jupyter Notebooks for Computer Vision"
 subtitle: "deep learning & transfer learning"
 date: 2020-06-12 21:21:21 -0500
 categories: ["Neural Networks"]
