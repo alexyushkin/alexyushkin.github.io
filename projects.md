@@ -5,7 +5,7 @@ subtitle: on GitHub
 ---
 
 <div>
-{% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
+{% assign postsCategory = site.posts | group_by_exp:"post.categories", "post" %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
 <strong>
