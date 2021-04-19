@@ -1,8 +1,7 @@
-date = "April 19, 2021"
 ---
 layout: page
 title: Resumé
-subtitle: date
+subtitle: Time.now
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
