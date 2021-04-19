@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé
-subtitle: <a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a>
+subtitle: "<a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a>"
 ---
 
 {time2 = Time.now}
