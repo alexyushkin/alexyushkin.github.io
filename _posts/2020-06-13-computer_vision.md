@@ -3,7 +3,7 @@ layout: page
 title: "Set of Jupyter Notebooks for Computer Vision"
 subtitle: "deep learning & transfer learning"
 date: 2020-06-12 21:21:21 -0500
-categories: ["Neural Networks & Deep Learning"]
+categories: ["Neural Networks (NN) & Deep Learning (DL)"]
 ---
 Segmentation<br>
 Object Detection<br>
