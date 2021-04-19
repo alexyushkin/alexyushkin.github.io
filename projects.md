@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects on GitHub
+title: Public Projects on GitHub
 subtitle: by categories
 ---
 
