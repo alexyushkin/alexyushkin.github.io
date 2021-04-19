@@ -10,4 +10,4 @@ Code in `R`.
 
 [GitHub repo][nlp_repo]
 
-[nlp_repo]:   https://github.com/alexyushkin/FinancialOptimization/blob/main/project_optimization.ipynb
+[nlp_repo]:   https://github.com/alexyushkin/InformingGovernmentPolicyDecisions
