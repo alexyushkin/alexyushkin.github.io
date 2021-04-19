@@ -3,7 +3,7 @@ layout: page
 title:  "Predictive model for real estate prices"
 subtitle: "Regressions"
 date:   2019-12-01 21:21:21 -0500
-categories: ["Machine Learning"]
+categories: ["Machine Learning (ML)"]
 ---
 Decision Tree Regression<br>
 Random Forest Regression<br>
