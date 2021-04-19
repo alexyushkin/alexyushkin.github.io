@@ -1,18 +1,9 @@
 ---
+date = "April 19, 2021"
 layout: page
 title: Resumé
-subtitle: 
+subtitle: date
 ---
-
-"{time2 = Time.now}"
-"{puts "Current Time : " + time2.inspect}"
-
-"{time2 = Time.now | puts "Current Time : " + time2.inspect}"
-
-"{{time2 = Time.now}}"
-"{{puts "Current Time : " + time2.inspect}}"
-
-"{{time2 = Time.now | puts "Current Time : " + time2.inspect}}"
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
