@@ -1,5 +1,5 @@
----
 date = "April 19, 2021"
+---
 layout: page
 title: Resumé
 subtitle: date
