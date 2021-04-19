@@ -3,7 +3,7 @@ layout: page
 title:  "An analysis of a food delivery company performance"
 subtitle: "Regression & Classification"
 date:   2021-02-13 21:21:21 -0500
-categories: ["Machine Learning"]
+categories: ["Machine Learning (ML)"]
 ---
 
 Code in `Python`. 
