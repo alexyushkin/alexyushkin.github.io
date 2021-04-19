@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Informing Government Policy Decisions"
+title: "Informing government policy decisions"
 subtitle: "tweets classification"
 date: 2021-03-10 21:21:21 -0500
 categories: ["Natural Language Processing (NLP)"]
