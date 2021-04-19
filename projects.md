@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-subtitle: on GitHub by categories
+title: Projects on GitHub
+subtitle: by categories
 ---
 
 <div>
-{% assign postsCategory = site.posts | group_by_exp: "post.categories", "post" %}
+{% assign postsCategory = site.posts | group_by_exp: "post", "post.categories" %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
 <strong>
