@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Unsupervised Learning"
+title:  "Mac vs. Windows. Unsupervised Learning"
 subtitle: "Principal Component Analysis (PCA)"
 date:   2021-02-21 21:21:21 -0500
 categories: ["Machine Learning"]
