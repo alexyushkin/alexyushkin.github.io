@@ -91,7 +91,7 @@ _Retail_
 
 ### SKILLS AND CERTIFICATIONS
 
-**Certificates:** U.S. - Russia Presidential Management Training Exchange Program, AWS Fundamentals Specialization, Google IT Automation Professional Certificate, Developing Applications with Google Cloud Platform Specialization, Data Engineering with Google Cloud Specialization, IBM Applied Data Science with Python, IBM Machine Learning with Python, 100+ Coursera and DataCamp Certificates including Python Programmer Career Track, Machine Learning Scientist with Python Career Track, Data Scientist with Python Career Track, Data Analyst with SQL Server Career Track, R Programming Skill Track, Deep Learning in Python Skill Track, etc.  
+**Certificates:** U.S. - Russia Presidential Management Training Exchange Program, AWS Fundamentals Specialization, Google IT Automation Professional Certificate, Developing Applications with Google Cloud Platform Specialization, Data Engineering with Google Cloud Specialization, IBM Applied Data Science with Python, IBM Machine Learning with Python, 120+ Coursera and DataCamp Certificates including Python Programmer Career Track, Machine Learning Scientist with Python Career Track, Data Scientist with Python Career Track, Data Analyst with SQL Server Career Track, R Programming Skill Track, Text Mining with R Skill Track, Deep Learning in Python Skill Track, Data Engineer with Python Career Track, etc.
  
 **Technologies:** Advanced Python for Data Science, R, SQL, C#, Tableau, KNIME, Microsoft Office, Microsoft Word, Microsoft Excel, Microsoft PowerPoint  
 <br>
