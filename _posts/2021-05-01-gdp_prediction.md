@@ -11,3 +11,8 @@ Code in `R`.
 [File on GitHub][file]
 
 [file]:   https://github.com/alexyushkin/GDP_GrowthPrediction/blob/main/GDP_assignment.R
+
+
+[Description of the task and results][desc]
+
+[desc]:   https://www.linkedin.com/posts/alexey-yushkin_datascience-dataanalytics-bigdata-activity-6795347813204017152-0TXe
