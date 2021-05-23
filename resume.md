@@ -11,33 +11,33 @@ subtitle: Analytics Translator, Business Analyst, Data Scientist, Data Science &
 
 **Master of Business Analytics (MsBA)** <span style="float: right; ">Expected May 2021</span>
 
-Hult International Business School |  Cambridge, Massachusetts
+Hult International Business School - Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83  
 <br>
 
 **Certificate of Professional Retraining in Artificial Intelligence** <span style="float: right; ">Nov 2020</span>
 
-GeekBrains   Skolkovo, Russia  
+GeekBrains University - Skolkovo, Russia  
 <br>
  
 **Master of Business Administration (MBA)** <span style="float: right; ">Aug 2020</span>
 
-Hult International Business School   Cambridge, Massachusetts
+Hult International Business School - Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.57  
 <br>
  
 **Diploma of Professional Retraining in Management** <span style="float: right; ">Jul 2010</span>
 
-Academy of National Economy   Moscow, Russia
+Academy of National Economy - Moscow, Russia
 
 - Diploma with Distinction, Overall GPA 4.0  
 <br>
 
 **Master of Electronics and Communication Engineering (ECE)** <span style="float: right; ">Mar 1993</span>
 
-Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
+Moscow Institute of Engineers of Civil Aviation - Moscow, Russia
 
 - Diploma with Distinction, Overall GPA 3.98
 - Deputy Team Leader  
@@ -49,7 +49,7 @@ Moscow Institute of Engineers of Civil Aviation   Moscow, Russia
 
 _Developer and manufacturer of industrial energy savings equipment for electric drive systems and solutions in the field of industrial automation._
 
-**CEO.** Managed strategic business objectives. Headed, supported, and motivated electrical/electronic design, production and sales teams of industrial electric products, including energy saving equipment.
+**CEO, Business Analyst** Managed strategic business objectives. Headed, supported, and motivated electrical/electronic design, production and sales teams of industrial electric products, including energy saving equipment.
 
 - Established and developed company from scratch – strategy development and execution.
 - Initiated and directed design process of 17 product lines including competitive analysis and market entry strategy.
