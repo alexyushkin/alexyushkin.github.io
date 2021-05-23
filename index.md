@@ -25,6 +25,7 @@ sitemap:
             Dr. Daniel Deneffe,<br>
             Professor, "Managerial Economics" and "Strategy" courses,<br>
             author of ["Fad-Free Strategy"][book]
+            [book]: https://fadfreestrategy.com/
         </span>
         <br style="clear:both" />
     </p>
@@ -114,6 +115,3 @@ sitemap:
         <br style="clear:both" />
     </p>
 </div>
-
-
-[book]: https://fadfreestrategy.com/
