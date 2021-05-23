@@ -11,7 +11,7 @@ subtitle: Analytics Translator, Business Analyst, Data Scientist, Data Science &
 
 **Master of Business Analytics (MsBA)** <span style="float: right; ">Expected May 2021</span>
 
-Hult International Business School   Cambridge, Massachusetts
+Hult International Business School |  Cambridge, Massachusetts
 
 - Dean&#39;s List, Overall GPA 3.83  
 <br>
