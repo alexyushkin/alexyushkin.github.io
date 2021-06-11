@@ -49,7 +49,8 @@ Moscow Institute of Engineers of Civil Aviation - Moscow, Russia
 
 _Developer and manufacturer of industrial energy savings equipment for electric drive systems and solutions in the field of industrial automation._
 
-**CEO, Business Analyst** Managed strategic business objectives. Headed, supported, and motivated electrical/electronic design, production and sales teams of industrial electric products, including energy saving equipment.
+**CEO, Business Analyst** Managed strategic business objectives. Headed, supported, and motivated electrical/electronic design, production and sales teams of industrial electric products, including energy-saving equipment. Performed data analysis, derived actionable insights, optimized processes.
+
 
 - Established and developed company from scratch – strategy development and execution.
 - Initiated and directed design process of 17 product lines including competitive analysis and market entry strategy.
@@ -94,10 +95,5 @@ _Retail_
 **Certificates:** U.S. - Russia Presidential Management Training Exchange Program, AWS Fundamentals Specialization, Google IT Automation Professional Certificate, Developing Applications with Google Cloud Platform Specialization, Data Engineering with Google Cloud Specialization, IBM Applied Data Science with Python, IBM Machine Learning with Python, 120+ Coursera and DataCamp Certificates including Python Programmer Career Track, Machine Learning Scientist with Python Career Track, Data Scientist with Python Career Track, Data Analyst with SQL Server Career Track, R Programming Skill Track, Text Mining with R Skill Track, Deep Learning in Python Skill Track, Data Engineer with Python Career Track, etc.
  
 **Technologies:** Advanced Python for Data Science, R, SQL, C#, Tableau, KNIME, Microsoft Office, Microsoft Word, Microsoft Excel, Microsoft PowerPoint  
-<br>
-
-### ADDITIONAL INFORMATION
-
-**Languages:** Russian (native), English (proficient)
 <br><br>
 
