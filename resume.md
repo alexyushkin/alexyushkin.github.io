@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: Business Analyst, Data Analyst, Solutions Architect, Automation Engineer, Operations Analyst
+subtitle: Business Analyst, Business Intelligence Analyst, Data Analyst, Analytics Engineer, Solutions Architect, Technical Program Manager, Automation Engineer, Operations Analyst, Product Analyst
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
