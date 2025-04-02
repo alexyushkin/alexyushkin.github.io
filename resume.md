@@ -9,7 +9,7 @@ subtitle: Business Analyst, Business Intelligence Analyst, Data Analyst, Data Sc
 
 ### EDUCATION
 
-**Master of Business Analytics (MsBA)** <span style="float: right; ">May 2021</span>
+**Master of Science in Business Analytics (MsBA)** <span style="float: right; ">May 2021</span>
 
 Hult International Business School - Cambridge, Massachusetts
 
