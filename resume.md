@@ -41,11 +41,11 @@ _Mass Save® partner and the largest Home Performance Contractor in Massachusett
 - Designed and executed data cleanup, ETL, and exchange frameworks; validated accuracy using statistical methods and independent judgment.
 - Built and maintained advanced analytics and visualizations in Python to analyze trends and identify optimization opportunities.
 - Developed and implemented custom solutions and automated workflows using AWS Lambda, EC2, and S3, significantly improving process efficiency.
- - For instance, created validation software that parses PDF documents with complex layouts, performs up to 17 automated checks per document set and creates up to 2,600 Salesforce line items - saving the team over 21 hours weekly.
- - Also automated insulation material population in Salesforce, reducing manual entry by 10+ hours per week.
+  - For instance, created validation software that parses PDF documents with complex layouts, performs up to 17 automated checks per document set and creates up to 2,600 Salesforce line items - saving the team over 21 hours weekly.
+  - Also automated insulation material population in Salesforce, reducing manual entry by 10+ hours per week.
 - Authored and maintained 11 background and online tools (e.g., AI Assistants, Search Utilities, Celigo Performance Monitor) to support team performance, customer communication, and platform oversight.
 - Developed optimal data structures and integrated multiple enterprise platforms, including Salesforce, NetSuite, ServiceTitan, HouseCall Pro, Stripe, and CallFire, to ensure data accuracy and enable a unified Customer 360 view.
- - For example, designed and implemented a full-scale integration between Salesforce, ServiceTitan, and NetSuite using 11 AWS Lambda functions and an EC2-based online tool, reducing manual workload across Finance and HVAC teams.
+  - For example, designed and implemented a full-scale integration between Salesforce, ServiceTitan, and NetSuite using 11 AWS Lambda functions and an EC2-based online tool, reducing manual workload across Finance and HVAC teams.
 - Designed and built a complex HVAC Quoting Tool in FormsOnFire that accounts for home and equipment nuances, reduces quoting errors, and auto-generates Salesforce products, contracts, and work orders—saving the team 1+ hour daily and eliminating manual data entry mistakes.
 - Developed reconciliation scripts to identify and resolve daily invoice discrepancies between ServiceTitan, Salesforce, and NetSuite - improving financial control and audit readiness.
 - Demonstrated measurable business impact, generating an estimated $120K–$140K in additional HVAC revenue over 14 months through data-driven strategic decision.
